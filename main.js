@@ -1,1 +1,1 @@
-var justTesting = document.querySelector('.mobile');
+var justTesting = document1.querySelector('.mobile');
